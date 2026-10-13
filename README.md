@@ -25,7 +25,7 @@ npm run build
 ```
 
 Le dossier `out/` contient le site final (fichiers statiques). On peut l'héberger gratuitement
-(Cloudflare Pages, Netlify, GitHub Pages, Vercel) en le connectant au dépôt Git du projet.
+(Cloudflare Pages, Netlify, GitHub Pages) en le connectant au dépôt Git du projet.
 
 ## Checklist avant livraison
 
